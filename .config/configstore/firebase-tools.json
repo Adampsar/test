@@ -1,0 +1,34 @@
+{
+	"analytics-uuid": "3a772976-c4e2-49ac-966d-06c5b9dd81a0",
+	"motd": {
+		"minVersion": "3.0.5"
+	},
+	"motd.fetched": 1503186813088,
+	"usage": false,
+	"user": {
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "108006262011991453526",
+		"email": "mrowingwebmaster@gmail.com",
+		"email_verified": true,
+		"at_hash": "6G-1nWojupnGegjSm6pMtQ",
+		"iss": "accounts.google.com",
+		"iat": 1502237990,
+		"exp": 1502241590
+	},
+	"tokens": {
+		"expires_at": 1503190413072,
+		"refresh_token": "1/SKOM6Nk_5jGRzGa1zdcq30FvmQfhQauRkCuNfVcFop0",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.GlysBLMInmQB0h8YINaNkkiHeCkn7XCQ3on63YKpZsm6FORpiw7SsuO4_Q3vcQd8PAMcyPUtBaAY6Gk49DGZyc4VuFpR8aWKNZYNeh3fjewwlulY7IDrFwGfO4s0Zg",
+		"token_type": "Bearer",
+		"expires_in": 3600,
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjEwOTMxYWFjNWVjMWVjZThmOGY0NmMwNThjY2MzMTZjOTk3ZjY2ZDMifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDgwMDYyNjIwMTE5OTE0NTM1MjYiLCJlbWFpbCI6Im1yb3dpbmd3ZWJtYXN0ZXJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ0b0tiLXpkSGthblVsTDdEc1R6amtBIiwiaXNzIjoiYWNjb3VudHMuZ29vZ2xlLmNvbSIsImlhdCI6MTUwMzE4NjgxNSwiZXhwIjoxNTAzMTkwNDE1fQ.RtT935wTiKq6PJMXIiVuVtaQsQ5KdYZhQlIIupYbjqiqffpUvmckipp4i5q3ck9gjIoO5hMrp7WbABseRD1CcFqpEj29c7TDwQ6TyPWqNVSdhB_X9YUMZHAfkKBJwI4wTHHgL7kjgZOHwSG5g1wxvnpW8mJMjzBkHQE8Mj13wnf3cHxIv2fS2PxD_rDafeoCiv_vD64aCTJVZFiYu0yFFWvdy9QUvh6rkzBtBFzlp14wbmaRmGEI2PMHlg2-FCqhVyHFPcGelwfYlpG4lepMe4a7ImsosgN_Pf0fIaRp7rCl1Ohlc1FnQaoSgFCj2gq6KTwa-hCy_koEeTvcGz4p_g"
+	}
+}
